@@ -11,10 +11,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex3236&title_color=66ccff">
 
-## :moneybag: 请我喝杯奶茶？
-[![Sponsor me!](https://img.shields.io/badge/Alipay/Wechat/QQ-blue?logo=alipay&logoColor=white&style=flat-square)](https://pay-alex3236.vercel.app/)
-
-## :envelope: 联系我
 [![Twitter](https://img.shields.io/twitter/follow/Alex32768?color=1ca0f1&label=%40Alex32768&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/Alex32768)
 [![Sina Weibo](https://img.shields.io/badge/-@Alex3230-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/alex3236)
 [![BiliBili](https://img.shields.io/badge/-Alex3236-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/275212628)
