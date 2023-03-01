@@ -9,8 +9,6 @@
 ![zh_CN](https://img.shields.io/badge/zh__CN-9cf?style=flat-square&logo=read-the-docs&logoColor=black&labelColor=9cf)
 ![en_US](https://img.shields.io/badge/en__US-9cf?logo=&logoColor=white&style=flat-square)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex3236&title_color=66ccff">
-
 [![Twitter](https://img.shields.io/twitter/follow/Alex32768?color=1ca0f1&label=%40Alex32768&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/Alex32768)
 [![Sina Weibo](https://img.shields.io/badge/-@Alex3230-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](https://weibo.com/alex3236)
 [![BiliBili](https://img.shields.io/badge/-Alex3236-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/275212628)
