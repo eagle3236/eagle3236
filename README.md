@@ -4,7 +4,7 @@
 
 ### 这里是 Alex3236！
 
-> 一个除了摸鱼啥都不的普通人。
+> 一个除了摸鱼啥都不会的普通人。
 
 ![zh_CN](https://img.shields.io/badge/zh__CN-9cf?style=flat-square&logo=read-the-docs&logoColor=black&labelColor=9cf)
 ![en_US](https://img.shields.io/badge/en__US-9cf?logo=&logoColor=white&style=flat-square)
